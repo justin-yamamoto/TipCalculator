@@ -1,6 +1,6 @@
 print("Welcome to the Tip Calculator\n")
 
-bill_amount = input("How much is the bill?\n ")
+bill_amount = input("How much is the total bill?\n ")
 new_bill_amount = float(bill_amount)
 
 tip20_amount = float(new_bill_amount * .20)
